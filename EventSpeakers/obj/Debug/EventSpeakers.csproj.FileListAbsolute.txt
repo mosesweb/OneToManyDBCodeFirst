@@ -1,0 +1,12 @@
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EventSpeakers.exe.config
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EventSpeakers.exe
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EventSpeakers.pdb
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EntityFramework.dll
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EntityFramework.xml
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\obj\Debug\EventSpeakers.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\obj\Debug\EventSpeakers.exe
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\obj\Debug\EventSpeakers.pdb
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\obj\Debug\EventSpeakers.Migrations.Initial.resources
+C:\Users\Studerande\Source\Repos\EventSpeakers\EventSpeakers\obj\Debug\EventSpeakers.csproj.GenerateResource.Cache
